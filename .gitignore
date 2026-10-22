@@ -1,0 +1,4 @@
+.DS_Store
+*.ans
+*.png
+!docs/*.png
